@@ -15,7 +15,7 @@ cask "vocamac" do
 
   conflicts_with cask: "vocamac-nightly"
   depends_on arch: :arm64
-  depends_on macos: :sonoma
+  depends_on macos: :ventura
 
   app "VocaMac.app"
 
