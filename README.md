@@ -6,6 +6,7 @@ Official Homebrew tap for [VocaMac](https://github.com/VocaHQ/vocamac) — a nat
 
 ```bash
 brew tap vocahq/vocamac
+brew trust vocahq/vocamac
 brew install --cask vocamac
 ```
 
@@ -17,7 +18,7 @@ For early access to the latest features, install the nightly build:
 brew install --cask vocamac-nightly
 ```
 
-> **Note:** Nightly builds may be unstable. Use the stable release for daily use.
+> **Note:** Nightly builds may be unstable. Prefer the regular release for daily use.
 
 ## Upgrade
 
@@ -47,6 +48,7 @@ Fix (installed apps are untouched):
 ```bash
 brew untap jatinkrmalik/vocamac
 brew tap vocahq/vocamac
+brew trust vocahq/vocamac
 brew install --cask vocamac
 ```
 
