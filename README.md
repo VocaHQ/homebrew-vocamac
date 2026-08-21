@@ -57,3 +57,5 @@ brew install --cask vocamac
 - **Source:** [github.com/VocaHQ/vocamac](https://github.com/VocaHQ/vocamac)
 - **Website:** [vocamac.com](https://vocamac.com)
 - **Issues:** [github.com/VocaHQ/vocamac/issues](https://github.com/VocaHQ/vocamac/issues)
+- **Discord:** [discord.gg/t6muquAJbm](https://discord.gg/t6muquAJbm)
+- **X:** [@vocahq](https://x.com/vocahq)
