@@ -5,7 +5,7 @@ cask "vocamac" do
   url "https://github.com/VocaHQ/vocamac/releases/download/v#{version}/VocaMac-#{version}-arm64.dmg",
       verified: "github.com/VocaHQ/vocamac/"
   name "VocaMac"
-  desc "Local voice-to-text dictation powered by WhisperKit"
+  desc "Private, offline voice-to-text dictation"
   homepage "https://vocamac.com/"
 
   livecheck do
