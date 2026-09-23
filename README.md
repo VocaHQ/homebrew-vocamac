@@ -59,3 +59,7 @@ brew install --cask vocamac
 - **Issues:** [github.com/VocaHQ/vocamac/issues](https://github.com/VocaHQ/vocamac/issues)
 - **Discord:** [discord.gg/t6muquAJbm](https://discord.gg/t6muquAJbm)
 - **X:** [@vocahq](https://x.com/vocahq)
+
+## License
+
+The files in this tap are licensed under the [GNU Affero General Public License version 3](LICENSE).
